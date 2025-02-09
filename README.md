@@ -7,3 +7,5 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 https://shabnamwatson.com/2025/02/05/how-i-passed-dp-700-implementing-data-engineering-solutions-using-microsoft-fabric/?ocid=fabric25_learntogether_prep_azdata
 
 https://learn.microsoft.com/en-us/
+
+https://learn.microsoft.com/en-us/fabric/
